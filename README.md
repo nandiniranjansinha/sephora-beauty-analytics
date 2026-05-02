@@ -7,16 +7,16 @@ An end-to-end business intelligence project analyzing **8,216 products** and **1
 ## 📊 Dashboard Preview
 
 ### Page 1 — Product Overview
-![Product Overview](screenshots/page1_product_overview.png)
+![Product Overview](screenshots/Product_Overview.png)
 
 ### Page 2 — Customer Sentiment
-![Customer Sentiment](screenshots/page2_customer_sentiment.png)
+![Customer Sentiment](screenshots/Customer_Sentiment.png)
 
 ### Page 3 — Market Gaps
-![Market Gaps](screenshots/page3_market_gaps.png)
+![Market Gaps](screenshots/Market_Gaps.png)
 
 ### Page 4 — Skincare Deep Dive
-![Skincare Deep Dive](screenshots/page4_skincare_deepdive.png)
+![Skincare Deep Dive](screenshots/Skincare_Deep_Dive.png)
 
 ---
 
