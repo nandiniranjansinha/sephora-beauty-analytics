@@ -10,19 +10,19 @@ To answer that, this end-to-end business intelligence project analyzes **8,216 p
 
 ### Page 1 — Product Overview
 
-[![Product Overview](https://github.com/nandiniranjansinha/sephora-beauty-analytics/raw/main/screenshots/Product_Overview.png)](/nandiniranjansinha/sephora-beauty-analytics/blob/main/screenshots/Product_Overview.png)
+[![Product Overview](https://github.com/nandiniranjansinha/sephora-beauty-analytics/raw/main/screenshots/Product_Overview.png)]
 
 ### Page 2 — Customer Sentiment
 
-[![Customer Sentiment](https://github.com/nandiniranjansinha/sephora-beauty-analytics/raw/main/screenshots/Customer_Sentiment.png)](/nandiniranjansinha/sephora-beauty-analytics/blob/main/screenshots/Customer_Sentiment.png)
+[![Customer Sentiment](https://github.com/nandiniranjansinha/sephora-beauty-analytics/raw/main/screenshots/Customer_Sentiment.png)]
 
 ### Page 3 — Market Gaps
 
-[![Market Gaps](https://github.com/nandiniranjansinha/sephora-beauty-analytics/raw/main/screenshots/Market_Gaps.png)](/nandiniranjansinha/sephora-beauty-analytics/blob/main/screenshots/Market_Gaps.png)
+[![Market Gaps](https://github.com/nandiniranjansinha/sephora-beauty-analytics/raw/main/screenshots/Market_Gaps.png)]
 
 ### Page 4 — Skincare Deep Dive
 
-[![Skincare Deep Dive](https://github.com/nandiniranjansinha/sephora-beauty-analytics/raw/main/screenshots/Skincare_Deep_Dive.png)](/nandiniranjansinha/sephora-beauty-analytics/blob/main/screenshots/Skincare_Deep_Dive.png)
+[![Skincare Deep Dive](https://github.com/nandiniranjansinha/sephora-beauty-analytics/raw/main/screenshots/Skincare_Deep_Dive.png)]
 
 ---
 
